@@ -1,0 +1,19 @@
+{
+  "name": "martin-xml2json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.wellsfargo.com/u368913/martin-xml2json.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "xml2js": "^0.4.23"
+  }
+}
